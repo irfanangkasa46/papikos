@@ -84,7 +84,7 @@
                         </select>
                     </div>
 
-                    <div class="col-sm-3">
+                    <!-- <div class="col-sm-3">
                         <label class="col-form-label">Provinsi</label>
                         <select name="province_id" class="form-control" id="select2" disabled>
                             <option value="">-- Pilih Provinsi --</option>
@@ -110,7 +110,7 @@
                             <strong>{{ $message }}</strong>
                           </div>
                         @enderror
-                    </div>
+                    </div> -->
 
                     <div class="col-sm-3">
                         <label class="col-form-label">Biaya Deposit</label>

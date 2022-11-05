@@ -4,7 +4,7 @@
             <li class="nav-item">
               <a class="navbar-brand" href="/">
                 <div class="brand-logo"></div>
-                <h2>Pap!Kos</h2>
+                <h2>Kost Wisma</h2>
               </a>
             </li>
         </ul>

@@ -8,7 +8,7 @@
     ],
     "license": "MIT",
     "require": {
-        "php": "^7.2",
+        "php": "^7.2|^8.1",
         "andes2912/indobank": "^0.4.0",
         "azishapidin/indoregion": "^3.0",
         "doctrine/dbal": "^3.1",

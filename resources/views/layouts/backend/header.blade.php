@@ -86,7 +86,7 @@
             <li class="nav-item">
               <a class="navbar-brand" href="{{url('/home')}}">
                   <div class="brand-logo"></div>
-                  <h2 class="brand-text mb-0">Pap!Kos</h2>
+                  <h2 class="brand-text mb-0">Kost Wisma</h2>
               </a>
             </li>
         </ul>

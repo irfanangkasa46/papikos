@@ -17,7 +17,7 @@
                   <div class="col-sm-12">
                       <label class="col-form-label">Nama Kamar</label>
                       <input type="text" class="form-control @error('nama_kamar') is-invalid @enderror" name="nama_kamar" placeholder="Nama Kamar" value="{{old('nama_kamar')}}" autocomplete="off">
-                      <small style="color: red">*Tanpa nama provinsi/kota/kabupaten</small>
+                      <!-- <small style="color: red">*Tanpa nama provinsi/kota/kabupaten</small> -->
                       @error('nama_kamar')
                         <div class="invalid-feedback">
                           <strong>{{ $message }}</strong>

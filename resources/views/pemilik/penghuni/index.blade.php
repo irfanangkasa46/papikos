@@ -20,8 +20,8 @@
                       <th class="text-nowrap">Type Kamar</th>
                       <th class="text-nowrap">Jenis Kamar</th>
                       <th class="text-nowrap">Lama Sewa</th>
-                      <th class="text-nowrap">Register Date</th>
-                      <th class="text-nowrap">End Date</th>
+                      <th class="text-nowrap">Tanggal Masuk </th>
+                      <th class="text-nowrap">Tanggal Keluar</th>
                     </tr>
                   </thead>
                   <tbody>

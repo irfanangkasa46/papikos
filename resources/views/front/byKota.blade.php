@@ -4,7 +4,7 @@
     opacity: 0.7; */
   }
 </style>
-<section class="ftco-section testimony-section">
+<!-- <section class="ftco-section testimony-section">
   <h2>Area Kos Berdasarkan Kota</h2>
     <div class="row">
       <div class="col-md-3 mb-4">
@@ -96,4 +96,4 @@
        </a>
       </div>
     </div>
-</section>
+</section> -->

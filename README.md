@@ -1,6 +1,6 @@
 <img src="https://github.com/andes2912/kos/blob/master/public/assets/images/logo/backup-logo.png?raw=true?sanitize=true&raw=true" />
 
-<p>Halo, ini adalah Pap!Kos aplikasi Pencarian Kost dan Apartement, desain dan fitur sebagian terinpirasi dari aplikasi Mamikos.  Aplikasi ini akan terus mendapat update secara berkala. Mohon untuk memberi issue jika kalian menemui bug pada saat penginstalan atau saat menggunakan aplikasi ini. Terima kasih <br/>
+<p>Halo, ini adalah Kost Wisma aplikasi Pencarian Kost dan Apartement, desain dan fitur sebagian terinpirasi dari aplikasi Mamikos.  Aplikasi ini akan terus mendapat update secara berkala. Mohon untuk memberi issue jika kalian menemui bug pada saat penginstalan atau saat menggunakan aplikasi ini. Terima kasih <br/>
     
 ## Requirements
 
@@ -10,7 +10,7 @@
     
 ## Framework
 
-Pap!Kos dibangun menggunakan [Laravel](http://laravel.com), the best existing PHP framework, as the foundation framework.
+Kost Wisma dibangun menggunakan [Laravel](http://laravel.com), the best existing PHP framework, as the foundation framework.
 
 ## Installation
 
@@ -30,11 +30,11 @@ Please see [Releases](../../releases) for more information what has changed rece
     
 ## Sponsors
 
-Support Pap!Kos by becoming a sponsor on [Saweria](https://saweria.co/andes2912). Your logo will show up here with a link to your website.
+Support Kost Wisma by becoming a sponsor on [Saweria](https://saweria.co/andes2912). Your logo will show up here with a link to your website.
 
 ## Any Questions ?
  
-Please contact me on [Andri Desmana](mailto:andridesmana29@outlook.com?subject=[GitHub]%20Questesion%20Pap!Kos) or [Telegram](https://t.me/andridesmana)
+Please contact me on [Andri Desmana](mailto:andridesmana29@outlook.com?subject=[GitHub]%20Questesion%20Kost Wisma) or [Telegram](https://t.me/andridesmana)
     
 ## License
 

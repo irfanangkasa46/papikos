@@ -120,7 +120,7 @@
                     </button>
                     <div class="dropdown-menu" aria-labelledby="share">
                         <a class="dropdown-item" target="_blank" href="{{ Share::currentPage($kamar->nama_kamar)->facebook()->getRawLinks() }}"> <i class="fa fa-facebook"></i> Facebook</a>
-                        <a class="dropdown-item" target="_blank" href="{{ Share::currentPage($kamar->nama_kamar)->twitter()->getRawLinks() }}"><i class="fa fa-twitter"></i> Twitter</a>
+                        <!-- <a class="dropdown-item" target="_blank" href="{{ Share::currentPage($kamar->nama_kamar)->twitter()->getRawLinks() }}"><i class="fa fa-twitter"></i> Twitter</a> -->
                         <a class="dropdown-item" target="_blank" href="{{ Share::currentPage($kamar->nama_kamar)->telegram()->getRawLinks() }}"><i class="fa fa-telegram"></i> Telegram</a>
                         <a class="dropdown-item" target="_blank" href="{{ Share::currentPage($kamar->nama_kamar)->whatsapp()->getRawLinks() }}"><i class="fa fa-whatsapp"></i> WhatsApp</a>
                     </div>
@@ -273,7 +273,7 @@
         <h5 style="font-weight: bold">Keterangan</h5>
         <ul>
           <li style="font-size: 12px"><span style="color:black">Harga Sewa</span> adalah harga kamar dalam jangka 1 bulan.</li>
-          <li style="font-size: 12px"><span style="color:black">Biaya Admin</span> adalah biaya pelayanan yang di bebankan penyewa untuk Pap!Kos.</li>
+          <li style="font-size: 12px"><span style="color:black">Biaya Admin</span> adalah biaya pelayanan yang di bebankan penyewa untuk Kost Wisma.</li>
           <li style="font-size: 12px"><span style="color:black">Deposit</span> adalah biaya untuk penjaminan selama penyewa masih menggunakan kamar/apartmenent, (biaya akan dikembalikan setelah masa sewa habis).</li>
           <li style="font-size: 12px"><span style="color:black">Point</span> adalah jumlah reward yang di dapatkan penyewa, point dapat di tukarkan untuk pembayaran.</li>
         </ul>
